@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "estudos-node",
+  "version": "1.0.0",
+  "description": "Iniciando node",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertolo321/estudos-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Andre Bertolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bertolo321/estudos-node/issues"
+  },
+  "homepage": "https://github.com/bertolo321/estudos-node#readme"
+}
